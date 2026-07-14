@@ -1,0 +1,6 @@
+# Code owners for this repository.
+# Every pull request automatically requests review from the owner(s) below.
+# See: https://docs.github.com/articles/about-code-owners
+
+# Owner of everything in the repo:
+*       @racanosman
